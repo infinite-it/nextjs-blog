@@ -4,6 +4,7 @@ export default function FirstPost() {
     return (
         <>
             <h1>First Post</h1>
+            <img src="/images/profile.jpg" alt="Your Name" />
             <h2>
                 <Link href="/">
                     <a>Back to home</a>
